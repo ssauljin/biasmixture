@@ -1,0 +1,18 @@
+\@doanenote {a}
+macro:->\mbox
+{Department
+of
+Statistics,
+Hankuk
+University;{
+}}
+\@endanenote 
+\@doanenote {b}
+macro:->\mbox
+{Department
+of
+Statistics,
+Daehan
+University{
+}}
+\@endanenote 
